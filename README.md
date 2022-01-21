@@ -1,4 +1,7 @@
-# Yunyi Huang's Personal Website
+# My Personal Website
+
+## Intro
+Hi there 👋, this is Yunyi Huang's personal website!
 
 ## Credits
 
